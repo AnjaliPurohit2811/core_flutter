@@ -20,3 +20,11 @@ samples, guidance on mobile development, and a full API reference.
   <img src = "https://github.com/AnjaliPurohit2811/core_flutter/assets/143180602/5d674665-1ec5-4219-ba5e-25ff0021bb23" height = 22% width = 32% >
 
 </p>
+
+https://github.com/AnjaliPurohit2811/core_flutter/assets/143180602/6392818b-4c06-4933-9dd1-c17e3a8e851e
+
+
+<p>
+  < mp4 src = "
+https://github.com/AnjaliPurohit2811/core_flutter/assets/143180602/6392818b-4c06-4933-9dd1-c17e3a8e851e" height = 22% width = 35% ></mp4>
+</p>
